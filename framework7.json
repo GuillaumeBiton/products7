@@ -1,0 +1,19 @@
+{
+  "cwd": "/workspaces/products7",
+  "type": [
+    "pwa",
+    "web"
+  ],
+  "name": "products7",
+  "framework": "svelte",
+  "template": "blank",
+  "cssPreProcessor": false,
+  "bundler": "vite",
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkMode": false,
+    "iconFonts": true
+  },
+  "customBuild": false
+}
